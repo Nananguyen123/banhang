@@ -1,0 +1,38 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+
+/* .leftBanner{
+  flex: 2;
+
+}
+.rightBanner{
+  flex: 1;
+}
+.subBanner{
+  display: flex;
+  justify-content: space-around;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bottomBanner{
+  display: flex;
+}
+.bottomBanner img{
+  width: 320px;
+}
+
+@media screen and (max-width: 1180px) and (min-width: 527px){
+  #root{
+    width: 50%;
+  }
+  
+} */
+
